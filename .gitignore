@@ -14,7 +14,8 @@ node_modules/
 # Ignore data directory
 data/
 my_dataset/
-my_dataset_backUp
+my_dataset_backUp/
+alexnet_dataset/
 
 # Ignore Python compiled files
 __pycache__/
