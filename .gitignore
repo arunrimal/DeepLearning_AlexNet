@@ -16,7 +16,7 @@ data/
 my_dataset/
 my_dataset_backUp/
 alexnet_dataset/
-
+alexnet_dataset_backup/
 # Ignore Python compiled files
 __pycache__/
 *.pyc
